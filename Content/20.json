@@ -1,6 +1,6 @@
 {
   "link": "https://github.com/advisories/GHSA-62gw-3rmj-wmp2",
-  "description": "System.Management.Automation vulnerability",
+  "description": "System.Management.Automation vulnerability (CVE-2019-1301)",
   "packages": [
     {
       "id": "System.Management.Automation",

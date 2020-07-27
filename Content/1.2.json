@@ -1,58 +1,8 @@
 {
     "link": "https://github.com/dotnet/corefx/issues/19535",
-    "description" : "Microsoft Security Advisory 4021279: Vulnerabilities in .NET Core, ASP.NET Core Could Allow Elevation of Privilege",
+    "description" : "Microsoft Security Advisory 4021279: Vulnerabilities in ASP.NET Core Could Allow Elevation of Privilege (CVE-2017-0247, CVE-2017-0249, CVE-2017-0256) ",
     "packages" : [
-        {
-            "id" : "System.Text.Encodings.Web",
-            "affected" : "4.0.0",
-            "fix" : "4.0.1"
-        },
-        {
-            "id" : "System.Text.Encodings.Web",
-            "affected" : "4.3.0",
-            "fix" : "4.3.1"
-        },
-        {
-            "id" : "System.Net.Http",
-            "affected" : "4.1.1",
-            "fix" : "4.1.2"
-        },
-        {
-            "id" : "System.Net.Http",
-            "affected" : "4.3.1",
-            "fix" : "4.3.2"
-        },
-        {
-            "id" : "System.Net.Http.WinHttpHandler",
-            "affected" : "4.0.1",
-            "fix" : "4.0.2"
-        },
-        {
-            "id" : "System.Net.Http.WinHttpHandler",
-            "affected" : "4.3.0",
-            "fix" : "4.3.1"
-        },
-        {
-            "id" : "System.Net.Security",
-            "affected" : "4.0.0",
-            "fix" : "4.0.1"
-        },
-        {
-            "id" : "System.Net.Security",
-            "affected" : "4.3.0",
-            "fix" : "4.3.1"
-        },        
-        {
-            "id" : "System.Net.WebSockets.Client",
-            "affected" : "4.0.0",
-            "fix" : "4.0.1"
-        },
-        {
-            "id" : "System.Net.WebSockets.Client",
-            "affected" : "4.3.0",
-            "fix" : "4.3.1"
-        }
-,
+    
 
 
         {
